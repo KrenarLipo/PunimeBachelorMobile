@@ -42,6 +42,11 @@
 #Grupi i shtatë
 1. Sara Sulejmani
 
+#Grupi i tetë
+1. Albi
+2. Rigersi
+3. Adison
+4. Fabjan
 
 
 
