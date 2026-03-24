@@ -11,10 +11,7 @@
 #kapiten:
 #anëtarët e grupit
 1. Stelina
-2. Searda
-3. Sara
-
-#Theodhosi për tu përcaktuar ende tek cili grup do shtohet
+2. Rearda
 
 #Grupi i tretë Design
 #kapiten: 
@@ -38,6 +35,12 @@
 2. Vasil
 3. Fazile
 4. Griselda
+
+#Grupi i gjashtë
+1. Theodhos Lupe
+
+#Grupi i shtatë
+1. Sara Sulejmani
 
 
 
