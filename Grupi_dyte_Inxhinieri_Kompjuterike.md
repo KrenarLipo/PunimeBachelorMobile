@@ -1,4 +1,4 @@
-**Pjestaret:** Stelina, Searda , Sara
+**Pjestaret:** Stelina, Searda 
 
 
 
