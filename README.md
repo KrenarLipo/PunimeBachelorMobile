@@ -27,6 +27,8 @@
 2. Ronaldo
 3. Llazar
 4. Ledjon Skarra
+5. Kevin Dibra
+6. Marjo Stafa
 
 #Grupi i pestë Design
 #kapiten:
