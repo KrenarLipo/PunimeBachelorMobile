@@ -5,8 +5,6 @@
 #anëtarët e grupit
 1. Eliza
 2. Maria
-3. Xhorxha
-4. Theodhos
 
 #Grupi i dytë Inxhinieri
 #kapiten:
@@ -38,6 +36,11 @@
 2. Vasil
 3. Fazile
 4. Griselda
+
+#Grupi i gjashtë
+#kapiten: Theodhos
+1. Xhorxha
+2. Theodhos
 
 #Grupi i shtatë
 1. Sara Sulejmani
