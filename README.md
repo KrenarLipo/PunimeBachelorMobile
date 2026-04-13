@@ -32,10 +32,8 @@
 #Grupi i pestë Design
 #kapiten:
 #anëtarët e grupit
-1. Gabriel
+1. Enacio
 2. Vasil
-3. Fazile
-4. Griselda
 
 #Grupi i gjashtë
 #kapiten: Theodhos
@@ -51,6 +49,13 @@
 3. Adison
 4. Fabjan
 
+#Grupi i nëntë
+1. Griselda
+2. Fazile
+
+#Grupi i dhjetë
+1. Gabrieli
+2. Eriseldi
 
 
 
