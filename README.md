@@ -1,14 +1,14 @@
 #Piket ne baze projektesh
-Grupi 1 => Maria, Eliza => Dorëzim datë 20 prill ose 0 pikë
+Grupi 1 => Maria, Eliza => 0 pikë
 Grupi 2 => Stelina, Rearda => 7 pikë
 Grupi 3 => Ermald, Ilir, Endri Laci => 3 pikë
-Grupi 4 => Kevin, Llazar, Ronaldo, Fitim, Ledjon, Marjo Stafa => Dorëzim datë 20 prill ose 0 pikë
-Grupi 5 => Vasil, Enacio => Dorëzim 14 prill
+Grupi 4 => Kevin, Llazar, Ronaldo, Fitim, Ledjon, Marjo Stafa => 3 pikë
+Grupi 5 => Vasil, Enacio => 0 pikë
 Grupi 6 => Xhorxha, Theodhos => 10 pikë
 Grupi 7 => Sara Sulejmani => 7 pikë
-Grupi 8 => Albi, Rigersi, Adison, Fabjan => Dorëzim 14 prill
-Grupi 9 => Griselda, Fazile => Dorëzim 14 prill
-Grupi 10 => Gabriel, Eriseldi => Dorëzim 14 prill 
+Grupi 8 => Albi, Rigersi, Adison, Fabjan => 0 pikë
+Grupi 9 => Griselda, Fazile => 0 pikë
+Grupi 10 => Gabriel, Eriseldi => 0 pikë 
 
 # Grupet per projekte
 
