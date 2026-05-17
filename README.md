@@ -1,14 +1,14 @@
 #Piket ne baze projektesh
 Grupi 1 => Maria, Eliza => 0 pikë
-Grupi 2 => Stelina, Rearda => 7 pikë
-Grupi 3 => Ermald, Ilir, Endri Laci => 3 pikë
-Grupi 4 => Kevin, Llazar, Ronaldo, Fitim, Ledjon, Marjo Stafa => 3 pikë
+Grupi 2 => Stelina, Rearda => 7 pikë + 10 pikë = 17 pikë
+Grupi 3 => Ermald, Ilir, Endri Laci => 3 pikë + 10 pikë = 13 pikë
+Grupi 4 => Kevin, Llazar, Ronaldo, Fitim, Ledjon, Marjo Stafa => 3 pikë + 17 pikë = 20 pikë
 Grupi 5 => Vasil, Enacio => 0 pikë
-Grupi 6 => Xhorxha, Theodhos => 10 pikë
-Grupi 7 => Sara Sulejmani => 7 pikë
-Grupi 8 => Albi, Rigersi, Adison, Fabjan => 0 pikë
-Grupi 9 => Griselda, Fazile => 0 pikë
-Grupi 10 => Gabriel, Eriseldi => 0 pikë 
+Grupi 6 => Xhorxha, Theodhos => 10 pikë + 24 pikë = 34 pikë
+Grupi 7 => Sara Sulejmani => 7 pikë + 26 pikë = 33 pikë
+Grupi 8 => Albi, Rigersi, Adison, Fabjan => 0 pikë + 12 pikë = 12 pikë
+Grupi 9 => Griselda, Fazile => 0 pikë + 5 pikë = 5 pikë
+Grupi 10 => Gabriel, Eriseldi => 0 pikë + 15 pikë = 15 pikë 
 
 # Grupet per projekte
 
